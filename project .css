@@ -1,0 +1,55 @@
+.hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    
+   
+}
+
+.container {
+    border: 1px solid black;
+    display: flex;
+    height: 90px;
+   gap: 20px;
+   border-radius: 10px;
+   background-color: rgb(23, 23, 23,0.5);
+    
+}
+#box1{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 50%;
+
+
+}
+  #box2{
+    width: 90px;
+    height: 90px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    }
+#box3{
+    width: 90px;
+    height: 90px;
+    background-color: brown;
+    border-radius: 50%;
+}
+#box4{
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    border-radius: 50%;
+    
+
+}
+#box5{
+    width: 90px;
+    height: 90px;
+    background-color: aqua;
+    border-radius: 50%;
+    
+
+} 
